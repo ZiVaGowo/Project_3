@@ -43,7 +43,7 @@ graph TD
 
 🚀 PR Creator: Создает отдельную ветку в Git, коммитит изменения и открывает настоящий Pull Request.
 
-🚀 Быстрый старт
+#🚀 Быстрый старт
 1. Клонирование репозитория
    
 git clone https://github.com/ZiVaGowo/Project_3.git
