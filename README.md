@@ -50,9 +50,9 @@ git clone https://github.com/ZiVaGowo/Project_3.git
 
 cd Project_3
 
-2. Настройка виртуального окружения
+# 2. Настройка виртуального окружения
    
-# Создание виртуального окружения
+## Создание виртуального окружения
 python -m venv .venv
 
 # Активация (Windows PowerShell)
