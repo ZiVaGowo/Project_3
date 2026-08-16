@@ -47,6 +47,7 @@ graph TD
 1. Клонирование репозитория
    
 git clone https://github.com/ZiVaGowo/Project_3.git
+
 cd Project_3
 
 2. Настройка виртуального окружения
